@@ -9,7 +9,7 @@ Original file is located at
 
 import numpy as np
 import pandas as pd
-import seaborn  as sns
+import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.tree import plot_tree
