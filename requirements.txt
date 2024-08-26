@@ -4,3 +4,10 @@ pandas
 yfinance
 sqlalchemy
 pyodbc
+streamlit
+seaborn
+scikit-learn
+matplotlib
+altair
+numpy
+google-colab
