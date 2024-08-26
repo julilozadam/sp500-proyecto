@@ -24,7 +24,7 @@ import streamlit as st
 st.title('ETL y Clusterización de  Empresas del S&P 500')
 
 st.write('Revision de los tipos de datos')
-df = pd.read_csv('data\prices.csv')
+df = pd.read_csv('data/prices.csv')
 df.head()
 
 st.write(df.dtypes)
